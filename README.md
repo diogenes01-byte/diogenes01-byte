@@ -30,9 +30,9 @@ Actualmente me especializo en inteligencia artificial y aprendizaje automático,
 
 ## 📫 ¡Conectemos!
 
-- 📧 Correo: diogenes01byte@gmail.com  
+- 📧 Correo: lugo.diogenes01@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/diogenes-lugo)  
-- 🌐 [Portafolio](diogeneslugo.me) <!-- Reemplaza con tu link real -->
+- 🌐 [Portafolio](diogeneslugo.me) 
 
 ---
 
