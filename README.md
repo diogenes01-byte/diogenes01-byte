@@ -1,39 +1,40 @@
-# Hi there, I'm Diógenes Byte! 👋
+# ¡Hola! Soy Diógenes Lugo 👋
 
-## 🧠 About Me
+## 🧠 Sobre mí
 
-I'm a Data Scientist specialized in transforming data into strategic decisions. With over five years of experience across analytics, business intelligence, and machine learning, I focus on delivering high-impact solutions that optimize operations and drive measurable value.
+Soy un Científico de Datos con más de cinco años de experiencia transformando datos en decisiones estratégicas. Combino analítica avanzada, inteligencia de negocio y automatización para generar soluciones de alto impacto.
 
-My background blends advanced analytics with real-world business management, giving me a unique perspective on how to align data with business goals.
-
----
-
-## 🛠 Technical Skills
-
-- **Data Science & Machine Learning**  
-- **Business Intelligence & Data Visualization**  
-- **Data Engineering & Automation**
+Actualmente me especializo en inteligencia artificial y aprendizaje automático, aplicando modelos predictivos para optimizar procesos y generar valor real en diferentes industrias.
 
 ---
 
-## 🔍 Core Competencies
+## 🛠 Habilidades Técnicas
 
-- Building predictive models to drive retention, revenue, and operations
-- Performing statistical analysis and hypothesis testing
-- Automating data pipelines (ETL/ELT) with Python and SQL
-- Designing dashboards and reports with Power BI & Tableau
-- Implementing ML models with scikit-learn, XGBoost and caret
-- Optimizing cloud-based workflows (SageMaker, GCP, Azure)
-- Teaching and mentoring in data science and analytics
+- **Ciencia de Datos y Machine Learning**  
+- **Inteligencia de Negocios y Visualización de Datos**  
+- **Ingeniería de Datos y Automatización**
 
 ---
 
-## 📫 Let's Connect!
+## 🔍 Competencias Clave
 
-- Email: diogenes01byte@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/diogenes01byte)  
-- [Portfolio](https://tu-portafolio.com) <!-- Actualiza con tu link real -->
+- Desarrollo de modelos predictivos para retención, ingresos y operaciones
+- Análisis estadístico y validación de hipótesis
+- Automatización de flujos de datos (ETL/ELT) con Python y SQL
+- Diseño de dashboards y reportes en Power BI y Tableau
+- Implementación de modelos con scikit-learn, XGBoost y caret
+- Optimización de flujos en la nube (SageMaker, GCP, Azure)
+- Mentoría y formación en ciencia de datos y analítica
 
 ---
 
-> *"I turn complex data into simple, actionable insights—because behind every number, there's a story worth telling."*
+## 📫 ¡Conectemos!
+
+- 📧 Correo: diogenes01byte@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diogenes-lugo)  
+- 🌐 [Portafolio](diogeneslugo.me) <!-- Reemplaza con tu link real -->
+
+---
+
+> *"Los datos no son solo números; son decisiones, historias y oportunidades esperando a ser descubiertas."*
+
