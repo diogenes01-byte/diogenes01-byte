@@ -1,9 +1,8 @@
-<!-- Banner superior - rectangular con bordes redondeados -->
+<!-- Banner superior -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cacf386b-fdda-46bb-a75e-f8718e7266be" 
+  <img 
+       src="https://github.com/user-attachments/assets/cacf386b-fdda-46bb-a75e-f8718e7266be" 
        width="75%"
-       height="180"
-       style="object-fit: cover; border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #e1e4e8;"
        alt="Diógenes Lugo - Data Scientist Banner" />
 </div>
 
@@ -51,6 +50,7 @@ Científico de Datos • Machine Learning • Inteligencia de Negocios
 ## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diogenes01-byte&show_icons=true&theme=tokyonight" height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes01-byte&layout=compact&theme=tokyonight" height="150" />
 </p>
 
