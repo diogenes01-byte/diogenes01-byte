@@ -59,8 +59,8 @@ Científico de Datos • Machine Learning • Inteligencia de Negocios
 ## 📫 ¡Conectemos!
 
 - 📧 Correo: lugo.diogenes01@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/diogenes-lugo)  
-- 🌐 [Portafolio](diogeneslugo.me) 
+- 💼 Linkedin: https://www.linkedin.com/in/diogenes-lugo/  
+- 🌐 Portafolio: https://diogeneslugo.me/ 
 
 ---
 
