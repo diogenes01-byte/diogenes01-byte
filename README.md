@@ -47,15 +47,6 @@ Científico de Datos • Machine Learning • Inteligencia de Negocios
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogenes01-byte&show_icons=true&theme=tokyonight" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes01-byte&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 📫 ¡Conectemos!
 
 - 📧 Correo: lugo.diogenes01@gmail.com  
@@ -63,12 +54,3 @@ Científico de Datos • Machine Learning • Inteligencia de Negocios
 - 🌐 Portafolio: https://diogeneslugo.me/ 
 
 ---
-
-> “Los datos no son solo números; son decisiones, historias y oportunidades esperando a ser descubiertas.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogenes01-byte&label=Visitas&style=flat-square&color=blue" alt="Visitas" />
-</p>
-
