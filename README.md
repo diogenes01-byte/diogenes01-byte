@@ -60,7 +60,6 @@ Científico de Datos • Machine Learning • Deep Learning • Inteligencia de 
 ## ⭐ Stack Destacado
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-blue?style=for-the-badge&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/SQL-Consultas%20Avanzadas-green?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Power%20BI-Business%20Analytics-yellow?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
@@ -70,17 +69,14 @@ Científico de Datos • Machine Learning • Deep Learning • Inteligencia de 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=diogenes01-byte&style=for-the-badge&color=blue" alt="Profile Views" />
   
-  <!-- Estadísticas principales -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogenes01-byte&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Lenguajes más usados -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes01-byte&layout=compact&theme=default&count_private=true" alt="Top Languages" />
-  
-  <!-- Trofeos -->
-  <img src="https://github-profile-trophy.vercel.app/?username=diogenes01-byte&theme=flat&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <!-- Usando shields.io con la API de GitHub -->
+  <img src="https://img.shields.io/github/followers/diogenes01-byte?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/diogenes01-byte?style=social" alt="Total Stars" />
+  <br/>
+  <img src="https://img.shields.io/github/last-commit/diogenes01-byte/Snake-Game-JavaScript" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/diogenes01-byte/Snake-Game-JavaScript" alt="Repo Size" />
 </p>
 
 ---
