@@ -57,26 +57,15 @@ Científico de Datos • Machine Learning • Deep Learning • Inteligencia de 
 
 ---
 
-## ⭐ Stack Destacado
+## ⭐ Core Stack Oficial
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-Consultas%20Avanzadas-green?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Analytics-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogenes01-byte&style=for-the-badge&color=blue" alt="Profile Views" />
-  
-  <!-- Usando shields.io con la API de GitHub -->
-  <img src="https://img.shields.io/github/followers/diogenes01-byte?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/diogenes01-byte?style=social" alt="Total Stars" />
-  <br/>
-  <img src="https://img.shields.io/github/last-commit/diogenes01-byte/Snake-Game-JavaScript" alt="Last Commit" />
-  <img src="https://img.shields.io/github/repo-size/diogenes01-byte/Snake-Game-JavaScript" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling-green?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning-AI-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-Generative%20AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-orange?style=for-the-badge&logo=apachespark" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-black?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=for-the-badge&logo=powerbi" />
 </p>
 
 ---
@@ -85,4 +74,3 @@ Científico de Datos • Machine Learning • Deep Learning • Inteligencia de 
 - 📧 Correo: lugo.diogenes01@gmail.com  
 - 💼 Linkedin: https://www.linkedin.com/in/diogenes-lugo/  
 - 🌐 Portafolio: https://diogeneslugo.me/  
-
