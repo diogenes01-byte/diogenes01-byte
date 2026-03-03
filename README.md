@@ -9,53 +9,42 @@
 <h1 align="center">¡Hola! Soy Diógenes Lugo 👋</h1>
 
 <p align="center">
-Científico de Datos • Machine Learning • Deep Learning • Inteligencia de Negocios
+Data Scientist · BI Consultant · MLOps & GenAI Practitioner · Data-Driven Strategy
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- Científico de Datos con **+5 años** aplicando IA y analítica avanzada en sectores como *EdTech, telecomunicaciones, restauración, consultoría y TI*.  
-- Experiencia en **modelos predictivos**, **deep learning**, **automatización** y **optimización de flujos de datos**.  
-- Enfoque orientado a negocio, aportando **decisiones basadas en datos** con impacto real.  
+Científico de Datos con sólida formación en Administración y más de **cinco años** transformando datos en decisiones estratégicas. Experiencia en Python, SQL, ML & DL, LLMs & RAG, Apache Spark, AWS y Power BI, con experiencia en despliegue de modelos, pipelines en la nube y visualización de datos, combinando capacidad técnica con enfoque en negocio y productividad.
 
 ---
 
-## 🛠️ Habilidades Técnicas
-- **Ciencia de Datos & Machine Learning:** scikit-learn, XGBoost, PyTorch  
-- **Deep Learning:** CNNs, RNNs, Transformers, Transfer Learning  
-- **Visualización & BI:** Power BI, Tableau, storytelling de datos  
-- **Ingeniería de Datos & Automatización:** Python, SQL, ETL/ELT, APIs  
-- **Cloud & DevOps:** AWS (SageMaker), GCP, Azure, Git/GitHub Actions  
+## 🎓 Educación & Contacto
+- **KeepCoding – Master en Big Data, IA y ML**: Python, SQL, Git, Docker, ML & DL, NLP, LLMs & RAG  
+- **MasterD – Big Data / Ciencia de Datos**: ETL, ML con Python, Big Data  
+- **CoderHouse – Ciencia de Datos**: Python, SQL, ML, AWS, Visualización de Datos  
+- **Universidad de Palermo – BBA**: Gestión Empresarial, Estrategia, Finanzas, Marketing
 
 ---
 
-## 📊 Indicadores de Impacto Profesional
-- 📈 **+15 %** mejora en retención de usuarios mediante modelos predictivos en telecom.  
-- ⚙️ **60 %** reducción del tiempo de reporting gracias a pipelines ETL automatizados.  
-- 📉 **20–40 %** reducción de costos operativos con optimización basada en datos.  
-- 📊 Dashboards ejecutivos utilizados por **equipos directivos** para decisiones estratégicas.  
-- 🚀 Modelos de ML y DL desplegados en entornos productivos de alto consumo.  
+## 📊 Impacto & Competencias
+- 📈 Mejora de **retención de usuarios +15 %** mediante modelos predictivos.  
+- ⚙️ Reducción del **tiempo de reporting 60 %** con pipelines ETL automatizados.  
+- 📉 Optimización operativa y reducción de **costos 20–40 %** aplicando análisis de datos y ML.  
+- 🚀 Despliegue de modelos de ML y DL en entornos productivos escalables.  
+- 💡 Diseño de dashboards de alto impacto y visualizaciones ejecutivas.  
+- 🔑 Competencias: predicción, NLP, RAG, estadística aplicada, automatización de pipelines y visión estratégica de negocio.
 
 ---
 
-## 🔑 Competencias Clave
-- Modelos predictivos aplicados a **retención, ingresos, riesgo y operaciones**.  
-- **Experimentos estadísticos** y validación rigurosa (A/B Testing).  
-- Diseño de **dashboards de alto impacto** para gerencias y dirección.  
-- Automatización de **pipelines de datos** y despliegues cloud.  
-- **Mentoría** de equipos y formación en ciencia de datos.  
+## 🏆 Proyectos Relevantes
+- **Predicción de Éxito de Atracciones Turísticas (DL Multimodal):** Clasificación de POIs usando CNN + metadatos para mejorar engagement.  
+- **Análisis de Negocio Airbnb (ML):** Modelos predictivos en Python/SQL para optimizar precios y ocupación.  
+- **Dashboard Interactivo Airbnb (Power BI):** Visualización de KPIs integrando múltiples fuentes para decisiones más ágiles.  
+- **Chatbot Económico Especializado (RAG + LLM):** Pipeline de retrieval-augmented generation para consultas financieras precisas y escalables.  
 
 ---
 
-## 🏆 Proyectos Destacados
-- **Optimización de Ingresos en Telecom:** modelo predictivo que aumentó la retención en +15 %.  
-- **ETL Automatizado en AWS:** pipeline que redujo en 60 % el tiempo de reporting mensual.  
-- **Dashboard Ejecutivo en EdTech:** visualizaciones en tiempo real para decisiones estratégicas.
-
-> 📂 Más proyectos en mi [Portafolio](#) o en mis [Repositorios](https://github.com/tu_usuario?tab=repositories).
-
----
 
 ## ⭐ Herramientas de trabajo
 <p align="center">
@@ -70,7 +59,7 @@ Científico de Datos • Machine Learning • Deep Learning • Inteligencia de 
 
 ---
 
-## 📫 Contacto
-- 📧 Correo: lugo.diogenes01@gmail.com  
-- 💼 Linkedin: https://www.linkedin.com/in/diogenes-lugo/  
-- 🌐 Portafolio: https://diogeneslugo.me/  
+**Contacto:**  
+- 📧 lugo.diogenes01@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diogenes-lugo/)  
+- 🌐 [Portafolio](https://diogeneslugo.me/)  
