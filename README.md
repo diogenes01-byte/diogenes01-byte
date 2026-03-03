@@ -57,7 +57,7 @@ Científico de Datos • Machine Learning • Deep Learning • Inteligencia de 
 
 ---
 
-## ⭐ Core Stack Oficial
+## ⭐ Herramientas de trabajo
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/SQL-Data%20Modeling-green?style=for-the-badge&logo=postgresql" />
