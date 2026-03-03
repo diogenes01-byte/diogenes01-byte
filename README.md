@@ -19,7 +19,7 @@ Científico de Datos con sólida formación en Administración y más de **cinco
 
 ---
 
-## 🎓 Educación & Contacto
+## 🎓 Educación 
 - **KeepCoding – Master en Big Data, IA y ML**: Python, SQL, Git, Docker, ML & DL, NLP, LLMs & RAG  
 - **MasterD – Big Data / Ciencia de Datos**: ETL, ML con Python, Big Data  
 - **CoderHouse – Ciencia de Datos**: Python, SQL, ML, AWS, Visualización de Datos  
