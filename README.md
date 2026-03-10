@@ -1,11 +1,4 @@
 <!-- Banner superior -->
-<div align="center">
-  <img 
-       src="https://github.com/user-attachments/assets/cacf386b-fdda-46bb-a75e-f8718e7266be" 
-       width="75%"
-       alt="Diógenes Lugo - Data Scientist Banner" />
-</div>
-
 <h1 align="center">¡Hola! Soy Diógenes Lugo 👋</h1>
 
 <p align="center">
