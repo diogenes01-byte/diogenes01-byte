@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola! Soy Diógenes Lugo 👋</h1>
 
 <p align="center">
-Data Scientist · BI Consultant · MLOps & GenAI Practitioner · Data-Driven Strategy
+Data Analyst · BI Consultant · Data & AI Solutions · Generative AI
 </p>
 
 ---
