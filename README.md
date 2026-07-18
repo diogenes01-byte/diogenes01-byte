@@ -8,7 +8,7 @@ Data Analyst · BI Consultant · Data & AI Solutions · Generative AI
 ---
 
 ## 🚀 Sobre mí
-Científico de Datos con sólida formación en Administración y más de **cinco años** transformando datos en decisiones estratégicas. Experiencia en Python, SQL, ML & DL, LLMs & RAG, Apache Spark, AWS y Power BI, con experiencia en despliegue de modelos, pipelines en la nube y visualización de datos, combinando capacidad técnica con enfoque en negocio y productividad.
+Analista de datos con sólida formación en Administración y más de **cinco años** transformando datos en decisiones estratégicas. Experiencia en Python, SQL, ML & DL, LLMs & RAG, Apache Spark, AWS y Power BI, con experiencia en despliegue de modelos, pipelines en la nube y visualización de datos, combinando capacidad técnica con enfoque en negocio y productividad.
 
 ---
 
